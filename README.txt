@@ -1,5 +1,9 @@
 Running requires python 2.7, dynet, numpy, pattern (for part 2) as well as sklearn and matplotlib for visualization.
 
+agr_50_mostcommon_10K.tsv should be placed in the data directory.
+
+Running:
+
 part1:
 	python main.py part1 
 
